@@ -1,11 +1,5 @@
 # README
 
-本博客（Luorance.github.io) 提供的所有内容仅供学习、交流和分享用途，只供参考。博客资源禁止并谢绝未经本站许可的使用，如若欲转载，请署名以及注明出处，请务必以文字链接的形式标明或保留文章原始出处和作者的信息。博客(原创)文章、资源、图片等所有内容，一经转载，即表示您已经接受上述声明，需自行承担一切风险与责任；
+**个人博客，用于上传个人资料，转载内容会注明原作者，若存在侵权内容，务必联系删除。**
 
-关于转载内容，本博客中有一部分来源于网络和媒体的内容(文章、源码、图片等)、出于个人整理收藏目的，或引用点评的形式在原作者默许(未注明、放弃、佚名、部分保留版权等)，或注明允许通过相关网络版权协议的情况下进行转载或引用点评，并都会在文章注明出处或作者及相关信息、链接；因有些转文内容来自搜索引擎，出处可能有很多，本博客不便确定查证，可能会将这类文章转载来源归类于来源于网络，并尽可能的标出参考来源、出处，本博客尊重原作者的成果，若本博客内容侵犯了您的合法权益时，或者内容原作者对转载内容有疑义时，请立即与本人取得联系；
-
-
-
-All content provided in this blog(Luorance.github.io) is for learning, communication and sharing purposes only and is for informational purposes only. If you want to reprint, please sign and indicate the source, please be sure to indicate or retain the original source and author information in the form of text links. All the content of this blog's (original) articles, resources, pictures, etc., once reprinted, means that you have accepted the above statement!，and you are responsible for all risks and responsibilities;
-
-Regarding the reprinted content, some of the content (articles, source code, pictures, etc.) from the Internet and media in this blog is for the purpose of personal collation and collection, or the form of quoting comments is tacitly approved by the original author (without indication, abandonment, anonymous, partial retention of copyright, etc.), or indicating that it is allowed to reprint or quote comments through relevant network copyright agreements, and the source or author and related information and links will be indicated in the article; Because some of the content of the reprint comes from the search engine, there may be many sources, this blog is inconvenient to determine and verify, the source of such articles may be classified as coming from the Internet, and as far as possible to mark the reference source, source, this blog respects the original author's achievements, if the content of this blog violates your legitimate rights and interests, or the original author of the content has doubts about the reprinted content, please contact me immediately;
+**A personal blog to upload my docs. Contact me for any IPR infringements.**
